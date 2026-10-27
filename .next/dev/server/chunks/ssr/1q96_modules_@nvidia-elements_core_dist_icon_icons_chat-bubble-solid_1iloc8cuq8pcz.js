@@ -1,0 +1,15 @@
+module.exports = [
+"[project]/node_modules/@nvidia-elements/core/dist/icon/icons/chat-bubble-solid.js [app-ssr] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+//#region src/icon/icons/chat-bubble-solid.svg?raw
+var e = "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"lucide-message-square-text\" viewBox=\"2 2.5 20 20\"><defs><mask id=\"a\" width=\"32\" height=\"32\" x=\"-4\" y=\"-4\" maskUnits=\"userSpaceOnUse\"><path d=\"M-4-4h32v32H-4z\"/><path fill=\"#fff\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"0\" d=\"M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z\"/><path fill=\"none\" stroke=\"#000\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2.15\" d=\"M7 11h10M7 15h6M7 7h8\"/></mask></defs><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" mask=\"url(#a)\"/></svg>";
+;
+}),
+];
+
+//# sourceMappingURL=1q96_modules_%40nvidia-elements_core_dist_icon_icons_chat-bubble-solid_1iloc8cuq8pcz.js.map

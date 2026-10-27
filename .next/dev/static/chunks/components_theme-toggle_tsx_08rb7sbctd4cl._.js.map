@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/ucdservices/Documents/GitHub/ai-ux-io-marketing/components/theme-toggle.tsx"],"sourcesContent":["'use client';\n\nimport { useId } from 'react';\n\nexport function ThemeToggle() {\n  const dropdownId = useId().replace(/:/g, '');\n\n  return (\n    <>\n      <nve-icon-button\n        container=\"flat\"\n        icon-name=\"sun\"\n        size=\"md\"\n        aria-label=\"Theme\"\n        popovertarget={dropdownId}\n      />\n      <nve-dropdown id={dropdownId} position=\"bottom\" alignment=\"end\">\n        <nve-preferences-input\n          name=\"theme\"\n          value='{ \"color-scheme\": \"light\" }'\n        />\n      </nve-dropdown>\n    </>\n  );\n}\n"],"names":["ThemeToggle","dropdownId","replace","container","size","popovertarget","id","position","alignment","name","value"],"mappings":";;;;;AAEA;;;AAFA;;AAIO,SAASA;;IACd,MAAMC,aAAa,IAAA,sKAAK,IAAGC,OAAO,CAAC,MAAM;IAEzC,qBACE;;0BACE,6LAAC;gBACCC,WAAU;gBACV,aAAU;gBACVC,MAAK;gBACL,cAAW;gBACXC,eAAeJ;;;;;;0BAEjB,6LAAC;gBAAaK,IAAIL;gBAAYM,UAAS;gBAASC,WAAU;0BACxD,cAAA,6LAAC;oBACCC,MAAK;oBACLC,OAAM;;;;;;;;;;;;;;;;;AAKhB;GApBgBV;;QACK,sKAAK;;;KADVA"}}]
+}

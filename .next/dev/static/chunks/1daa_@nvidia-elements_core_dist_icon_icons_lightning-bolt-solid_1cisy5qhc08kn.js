@@ -1,0 +1,15 @@
+(globalThis["TURBOPACK"] || (globalThis["TURBOPACK"] = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/node_modules/@nvidia-elements/core/dist/icon/icons/lightning-bolt-solid.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+//#region src/icon/icons/lightning-bolt-solid.svg?raw
+var e = "<svg xmlns=\"http://www.w3.org/2000/svg\" class=\"lucide-zap\" viewBox=\"1.99 2 20.02 20.02\"><defs><mask id=\"a\" width=\"32\" height=\"32\" x=\"-4\" y=\"-4\" maskUnits=\"userSpaceOnUse\"><path d=\"M-4-4h32v32H-4z\"/><path fill=\"#fff\" stroke=\"#fff\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"0\" d=\"M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z\"/></mask></defs><path fill=\"currentColor\" d=\"M0 0h24v24H0z\" mask=\"url(#a)\"/></svg>";
+;
+}),
+]);
+
+//# sourceMappingURL=1daa_%40nvidia-elements_core_dist_icon_icons_lightning-bolt-solid_1cisy5qhc08kn.js.map

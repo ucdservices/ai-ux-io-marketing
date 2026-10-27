@@ -1,6 +1,10 @@
 export const team = {
   id: 'team',
-  heading: 'One lead. Specialist AI teammates. A human at every gate.',
+  headingLines: [
+    'One lead.',
+    'Specialist AI teammates.',
+    'A human at every gate.',
+  ],
   intro:
     'Each teammate does one job well. I set the brief, check the output against evidence, and decide what moves forward.',
   roster: [

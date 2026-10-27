@@ -1,0 +1,203 @@
+{"timestamp":"00:00:02.962","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:02.963","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:02.963","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:06.151","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:06.251","source":"Browser","level":"WARN","message":"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information."}
+{"timestamp":"00:00:06.268","source":"Server","level":"WARN","message":"[browser] \"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.\""}
+{"timestamp":"00:00:06.269","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.274","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.274","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.275","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.275","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.275","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.275","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.275","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.275","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.275","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.276","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.276","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.276","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.276","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.276","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.276","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.276","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.279","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.279","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.279","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.279","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.280","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.280","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.280","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.280","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.280","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.280","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.281","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.283","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.283","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.283","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.284","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.284","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.284","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.284","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.284","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.284","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.284","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.287","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:06.287","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:06.287","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.607","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:07.697","source":"Browser","level":"WARN","message":"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information."}
+{"timestamp":"00:00:07.697","source":"Server","level":"WARN","message":"[browser] \"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.\""}
+{"timestamp":"00:00:07.698","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.698","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.698","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.698","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.698","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.698","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.698","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.699","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.699","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.699","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.761","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.780","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.780","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.781","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.782","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.782","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.782","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.782","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.782","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.782","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.782","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.791","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.792","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.792","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.792","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.797","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.797","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.797","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.797","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.798","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.798","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.798","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.798","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.799","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.799","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.800","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.800","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.800","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.800","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:00:07.800","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:00:07.800","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.186","source":"Server","level":"WARN","message":"Route / is rendering with server caches disabled. For this navigation, Component Metadata in React DevTools will not accurately reflect what is statically prerenderable and runtime prefetchable. See more info here: https://nextjs.org/docs/messages/cache-bypass-in-dev"}
+{"timestamp":"00:01:23.303","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:23.346","source":"Browser","level":"WARN","message":"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information."}
+{"timestamp":"00:01:23.346","source":"Server","level":"WARN","message":"[browser] \"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.\""}
+{"timestamp":"00:01:23.346","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.346","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.347","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.347","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.347","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.347","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.347","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.347","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.347","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.347","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.426","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.426","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.426","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.426","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.427","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.427","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:01:23.428","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:01:23.428","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:43.770","source":"Server","level":"LOG","message":"✓ Compiled in 213ms"}
+{"timestamp":"00:02:43.938","source":"Server","level":"LOG","message":"✓ Compiled in 28ms"}
+{"timestamp":"00:02:56.123","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:02:56.180","source":"Browser","level":"WARN","message":"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information."}
+{"timestamp":"00:02:56.180","source":"Server","level":"WARN","message":"[browser] \"Lit is in dev mode. Not recommended for production! See https://lit.dev/msg/dev-mode for more information.\""}
+{"timestamp":"00:02:56.180","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.181","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.181","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.181","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.181","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.181","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.181","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.181","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.181","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.181","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.215","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.215","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.216","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.216","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.217","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.217","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:02:56.217","source":"Browser","level":"ASSERT","message":"true unexpected parse state B"}
+{"timestamp":"00:02:56.217","source":"Server","level":"ASSERT","message":"[browser] true \"unexpected parse state B\""}
+{"timestamp":"00:03:10.352","source":"Server","level":"LOG","message":"✓ Compiled in 17ms"}
