@@ -1,0 +1,52 @@
+export const proof = {
+  id: 'proof',
+  heading: 'Built, not just described.',
+  cards: [
+    {
+      title: 'In-service agent for a government finance service',
+      body: 'An agent inside an internal service that answers questions about a record from its own data, and stays with the user as they move through the service. Plain-language instructions become draft changes the user reviews and submits.',
+      tag: 'Proof of concept · GOV.UK and MoJ Design Systems',
+      href: null as string | null,
+      confirmClient: true,
+    },
+    {
+      title: 'AI briefing tools for front-line diplomatic work',
+      body: 'A suite of digital tools that brings the right information into one place, prototyped from concept to a working first version.',
+      tag: 'Prototype · v1.0',
+      href: null as string | null,
+      confirmClient: true,
+    },
+    {
+      title: 'UCD Agent',
+      body: 'A pipeline agent for UCD practitioners: research synthesis, pattern extraction, design ops documentation and prototype guidance.',
+      tag: 'My product',
+      href: 'https://ucdagent.com',
+      confirmClient: false,
+    },
+    {
+      title: 'UCD Bots',
+      body: 'A roster of specialist AI teammates, one for each UCD task, from accessibility auditing to journey mapping.',
+      tag: 'My product',
+      href: 'https://ucdbots.com',
+      confirmClient: false,
+    },
+  ],
+  cursorBlock: {
+    heading: 'AI use, on the record',
+    body: 'My Cursor profile is public. It shows the agents I run and how often.',
+    stats: {
+      agentsRun: '171',
+      agentsRunLabel: 'agents run',
+      currentStreak: '157 days',
+      currentStreakLabel: 'current streak',
+      tokens: '2.5B',
+      tokensLabel: 'tokens',
+      longestRun: '3.3 h',
+      longestRunLabel: 'longest agent run',
+      asOf: 'October 2026',
+      sourceNote: 'Figures from cursor.com/@ucdops, October 2026.',
+    },
+    cta: 'View my Cursor profile',
+    profileUrl: 'https://cursor.com/@ucdops',
+  },
+} as const;

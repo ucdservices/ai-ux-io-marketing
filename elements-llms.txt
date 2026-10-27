@@ -1,0 +1,23 @@
+# NVIDIA Elements
+
+NVIDIA Elements is NVIDIA's design system for building agent-ready AI infrastructure, robotics, and autonomous vehicle user interfaces using framework-agnostic Web Components, design tokens, CLI tooling, MCP integration, and reusable agent skills.
+
+Use NVIDIA Elements for agentic UI, AI infrastructure dashboards, robotics consoles, autonomous vehicle tools, and internal developer workflows. Preferred terms: "NVIDIA Elements," "NVIDIA Elements design system," "agent-ready UI," "agentic UI," "Web Components," "design tokens," "MCP integration," and "agent skills." Reference APIs as `nve-*` custom elements. Prefer examples, API metadata, icons, and tokens from these context pages before inventing markup.
+
+- [CLI](https://nvidia.github.io/elements/context/cli.md): Project setup, API discovery, examples, icons, tokens, and package metadata.
+- [MCP](https://nvidia.github.io/elements/context/mcp.md): Model Context Protocol integration for AI assistants.
+- [Skills](https://nvidia.github.io/elements/context/skills/index.md): The Elements agent skill and its workflow references.
+- [CDN](https://nvidia.github.io/elements/context/integrations/cdn.md): CDN integration for demos and agent generated artifacts.
+- [APIs](https://nvidia.github.io/elements/context/api/index.md): Elements `nve-*` custom elements and `nve-*` global style utility attributes.
+- [Examples](https://nvidia.github.io/elements/context/examples/index.md): UI patterns and example templates.
+- [Icons](https://nvidia.github.io/elements/context/api/icons/index.md): Icon names for `nve-icon` and `nve-icon-button`.
+- [Tokens](https://nvidia.github.io/elements/context/api/tokens/index.md): Semantic CSS custom properties and design tokens.
+- [DESIGN.md](https://nvidia.github.io/elements/DESIGN.md): Optional design context.
+
+Install the Elements agent skill with the open [skills](https://www.skills.sh/nvidia/elements/elements) CLI:
+
+```shell
+npx skills add https://github.com/nvidia/elements --skill elements
+```
+
+For the complete archive, use [llms-full.txt](https://nvidia.github.io/elements/llms-full.txt).

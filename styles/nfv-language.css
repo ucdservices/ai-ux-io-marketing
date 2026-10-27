@@ -1,0 +1,81 @@
+/* Visual language aligned with needforvelocity.com (--vc-* tokens) */
+
+:root {
+  --font-sans: Satoshi, -apple-system, BlinkMacSystemFont, 'SF Pro Display', system-ui,
+    sans-serif;
+  --btn-primary-bg: #01d95a;
+  --btn-primary-bg-hover: #00c04f;
+  --vc-bg: #fbfbfd;
+  --vc-bg-2: #f5f5f7;
+  --vc-surface: #fff;
+  --vc-ink: #1d1d1f;
+  --vc-ink-2: #6e6e73;
+  --vc-muted: #86868b;
+  --vc-accent: #0a84ff;
+  --vc-accent-hover: #0060df;
+  --vc-accent-soft: #0a84ff1a;
+  --vc-glass: #ffffffb8;
+  --vc-glass-border: #0000000f;
+  --vc-shadow-sm: 0 1px 3px #0000000f;
+  --vc-shadow: 0 8px 30px #00000014;
+  --vc-shadow-lg: 0 20px 60px #0000001f;
+  --vc-line: #00000014;
+  --vc-display: clamp(2.75rem, 7vw, 6rem);
+  --vc-h1: clamp(2.25rem, 5vw, 4rem);
+  --vc-h2: clamp(1.75rem, 3.5vw, 2.75rem);
+  --vc-h3: clamp(1.25rem, 2vw, 1.5rem);
+  --vc-lead: clamp(1.125rem, 1.6vw, 1.5rem);
+  --vc-body: 1.0625rem;
+  --vc-small: 0.875rem;
+  --vc-radius-sm: 12px;
+  --vc-radius: 20px;
+  --vc-radius-lg: 28px;
+  --vc-radius-pill: 980px;
+  --vc-gap: 1.5rem;
+  --vc-gutter: max(1rem, 4.5vw);
+  --vc-section: clamp(6rem, 14vw, 12rem);
+  --vc-viewport-height: 100dvh;
+  --site-header-height: 3.5rem;
+  --vc-maxw: 1120px;
+  --vc-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --vc-dur: 0.6s;
+  --vc-dur-fast: 0.25s;
+}
+
+:root[data-theme='dark'] {
+  --btn-primary-bg: #01d95a;
+  --btn-primary-bg-hover: #00c04f;
+  --vc-bg: #000;
+  --vc-bg-2: #0a0a0c;
+  --vc-surface: #1c1c1e;
+  --vc-ink: #f5f5f7;
+  --vc-ink-2: #a1a1a6;
+  --vc-muted: #8e8e93;
+  --vc-accent: #0a84ff;
+  --vc-accent-hover: #409cff;
+  --vc-accent-soft: #0a84ff29;
+  --vc-glass: #1c1c1eb8;
+  --vc-glass-border: #ffffff14;
+  --vc-shadow-sm: 0 1px 3px #0006;
+  --vc-shadow: 0 8px 30px #00000080;
+  --vc-shadow-lg: 0 20px 60px #0009;
+  --vc-line: #ffffff1a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --vc-bg: #000;
+    --vc-bg-2: #0a0a0c;
+    --vc-surface: #1c1c1e;
+    --vc-ink: #f5f5f7;
+    --vc-ink-2: #a1a1a6;
+    --vc-muted: #8e8e93;
+    --vc-accent-soft: #0a84ff29;
+    --vc-glass: #1c1c1eb8;
+    --vc-glass-border: #ffffff14;
+    --vc-shadow-sm: 0 1px 3px #0006;
+    --vc-shadow: 0 8px 30px #00000080;
+    --vc-shadow-lg: 0 20px 60px #0009;
+    --vc-line: #ffffff1a;
+  }
+}
