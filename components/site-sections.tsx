@@ -127,7 +127,12 @@ export function SitePage() {
         <section id={team.id} className="section" aria-labelledby="team-heading">
           <SectionStack className="section__inner">
             <h2 id="team-heading" className="vc-h2">
-              {team.heading}
+              {team.headingLines.map((line, index) => (
+                <span key={line}>
+                  {index > 0 ? <br /> : null}
+                  {line}
+                </span>
+              ))}
             </h2>
             <p className="vc-body-block">{team.intro}</p>
             <ul className="card-grid card-grid--team">

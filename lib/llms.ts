@@ -31,7 +31,7 @@ export function buildLlmsTxt() {
   ].join('\n');
 
   const teamBody = [
-    team.heading,
+    team.headingLines.join(' '),
     '',
     team.intro,
     '',

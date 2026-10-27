@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/styles/satoshi.css"],"sourcesContent":["@font-face {\n  font-family: Satoshi;\n  src: url('/fonts/satoshi/Satoshi-Variable.woff2') format('woff2');\n  font-weight: 300 900;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: Satoshi;\n  src: url('/fonts/satoshi/Satoshi-Regular.woff2') format('woff2');\n  font-weight: 400;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: Satoshi;\n  src: url('/fonts/satoshi/Satoshi-Medium.woff2') format('woff2');\n  font-weight: 500;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: Satoshi;\n  src: url('/fonts/satoshi/Satoshi-Bold.woff2') format('woff2');\n  font-weight: 700;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: Satoshi;\n  src: url('/fonts/satoshi/Satoshi-Black.woff2') format('woff2');\n  font-weight: 900;\n  font-style: normal;\n  font-display: swap;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;AAQA;;;;;;;;AAQA;;;;;;;;AAQA;;;;;;;;AAQA"}}]
+}

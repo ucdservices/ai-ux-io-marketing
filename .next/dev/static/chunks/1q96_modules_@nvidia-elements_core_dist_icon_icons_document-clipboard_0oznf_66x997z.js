@@ -1,0 +1,15 @@
+(globalThis["TURBOPACK"] || (globalThis["TURBOPACK"] = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/node_modules/@nvidia-elements/core/dist/icon/icons/document-clipboard.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>e
+]);
+//#region src/icon/icons/document-clipboard.svg?raw
+var e = "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" class=\"lucide-clipboard\" viewBox=\"3 1 18 22\"><rect width=\"8\" height=\"4\" x=\"8\" y=\"2\" rx=\"1\" ry=\"1\"/><path d=\"M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2\"/></svg>";
+;
+}),
+]);
+
+//# sourceMappingURL=1q96_modules_%40nvidia-elements_core_dist_icon_icons_document-clipboard_0oznf_66x997z.js.map

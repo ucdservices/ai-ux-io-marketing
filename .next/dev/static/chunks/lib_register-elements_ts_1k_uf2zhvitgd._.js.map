@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/ucdservices/Documents/GitHub/ai-ux-io-marketing/lib/register-elements.ts"],"sourcesContent":["import '@nvidia-elements/core/button/define.js';\nimport '@nvidia-elements/core/icon-button/define.js';\nimport '@nvidia-elements/core/icon/define.js';\nimport '@nvidia-elements/core/badge/define.js';\nimport '@nvidia-elements/core/card/define.js';\nimport '@nvidia-elements/core/dropdown/define.js';\nimport '@nvidia-elements/core/preferences-input/define.js';\n"],"names":[],"mappings":";AAAA;AACA;AACA;AACA;AACA;AACA;AACA"}}]
+}

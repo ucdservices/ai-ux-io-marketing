@@ -40,7 +40,7 @@ export const proof = {
       currentStreak: '157 days',
       currentStreakLabel: 'current streak',
       tokens: '2.5B',
-      tokensLabel: 'tokens',
+      tokensLabel: 'tokens per month',
       longestRun: '3.3 h',
       longestRunLabel: 'longest agent run',
       asOf: 'October 2026',
