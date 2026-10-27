@@ -1,5 +1,5 @@
 export const hero = {
-  heading: 'UX Designer with AI teammates.',
+  heading: 'UCD with AI Teammates.',
   body:
     'User-centred design with specialist AI teammates—for research synthesis, journey mapping, prototyping, and code. They draft; I set direction, check against evidence, and sign off. The same discipline shapes agentic products people can trust.',
   primaryCta: 'Connect on LinkedIn',

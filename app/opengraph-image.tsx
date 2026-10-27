@@ -2,7 +2,7 @@ import { ImageResponse } from 'next/og';
 import { hero } from '@/content/hero';
 import { site } from '@/content/site';
 
-export const alt = 'ai-ux.io: UX Designer with AI teammates';
+export const alt = 'ai-ux.io: UCD with AI Teammates';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 

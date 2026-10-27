@@ -25,7 +25,7 @@ export const site = {
     title: 'Vijay Kandhalu: Agentic AI UX Lead | ai-ux.io',
     description:
       'UX lead who orchestrates AI teammates, and designs and builds agentic AI products people can trust. User-centred, accessible, built in code.',
-    ogTitle: 'UX Designer with AI teammates.',
+    ogTitle: 'UCD with AI Teammates.',
   },
   knowsAbout: [
     'Agentic AI UX',
