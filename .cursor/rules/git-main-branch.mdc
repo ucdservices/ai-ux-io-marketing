@@ -1,0 +1,13 @@
+---
+description: Use main as the default git branch for all work in this repo
+alwaysApply: true
+---
+
+# Git: work on `main`
+
+- Check out and stay on **`main`** unless the user explicitly names another branch.
+- Before starting work, run `git checkout main` and `git pull origin main` when the network is available.
+- Do not create feature branches or open PRs unless the user asks.
+- Commit directly on `main` when the user asks to commit (follow the repo commit message style).
+- Avoid merging `main` into long-lived branches; bring changes onto `main` instead.
+- Do not commit `.next/` build or cache output; limit commits to source and config.
