@@ -1057,6 +1057,35 @@ nve-card {
   gap: 0.75rem 1.25rem;
 }
 
+.footer-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.25rem;
+  max-width: 100%;
+}
+
+.footer-attribution {
+  margin: 0;
+  max-width: 100%;
+  font-size: var(--vc-small);
+  line-height: 1.5;
+  color: var(--vc-ink-2);
+}
+
+.footer-attribution a {
+  color: var(--vc-accent-hover);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  border-radius: var(--vc-radius-sm);
+  white-space: nowrap;
+}
+
+.footer-attribution a:hover {
+  color: var(--vc-ink);
+}
+
 .site-header__actions nve-icon-button,
 .site-header__actions nve-button,
 .site-nav a {

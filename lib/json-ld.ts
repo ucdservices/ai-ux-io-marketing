@@ -9,6 +9,7 @@ export function buildJsonLd() {
       url: site.url,
       name: site.name,
       inLanguage: site.locale,
+      author: { '@id': `${site.url}/#person` },
     },
     {
       '@type': 'WebPage',
@@ -26,8 +27,8 @@ export function buildJsonLd() {
       '@id': `${site.url}/#person`,
       name: site.person.name,
       jobTitle: site.person.jobTitle,
-      url: site.person.url,
-      sameAs: [site.links.linkedIn, site.links.cursor, site.links.vijay],
+      url: site.hubUrl,
+      sameAs: [site.links.linkedIn, site.links.cursor, site.url],
       knowsAbout: [...site.knowsAbout],
     },
     {

@@ -9,6 +9,7 @@ export const site = {
     jobTitle: 'Agentic AI UX Lead',
     url: 'https://ai-ux.io/',
   },
+  hubUrl: 'https://vijay.ai',
   links: {
     linkedIn: 'https://www.linkedin.com/in/vijaykandhalu/',
     cursor: 'https://cursor.com/@ucdops',
