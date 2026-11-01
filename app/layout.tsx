@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { ElementsProvider } from '@/components/elements-provider';
+import { SiteFooter } from '@/components/site-footer';
 import { ThemeInitScript } from '@/components/theme-init-script';
 import { ThemeSync } from '@/components/theme-sync';
 import { site } from '@/content/site';
@@ -29,6 +30,7 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
             Skip to main content
           </a>
           {children}
+          <SiteFooter />
         </ElementsProvider>
       </body>
     </html>

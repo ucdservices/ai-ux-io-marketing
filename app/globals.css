@@ -1048,6 +1048,24 @@ nve-card {
   background: var(--nve-sys-layer-shell-background);
 }
 
+.footer-attribution {
+  margin: 0;
+  max-width: 100%;
+  font-size: var(--vc-small);
+  line-height: 1.5;
+  color: var(--vc-muted);
+}
+
+.footer-attribution a {
+  color: var(--vc-ink);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.footer-attribution a:hover {
+  color: var(--vc-accent-hover);
+}
+
 .footer-links {
   list-style: none;
   margin: 0;

@@ -110,7 +110,7 @@ export function buildLlmsTxt() {
   ].join('\n');
 
   const related = [
-    `**Hub:** ${site.links.vijay}`,
+    '- [Vijay Kandhalu](https://vijay.ai): hub site',
     `- ${site.links.uxengineer}`,
     `- ${site.links.interaction}`,
   ].join('\n');

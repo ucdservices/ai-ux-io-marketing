@@ -1,7 +1,7 @@
 'use client';
 
 import { agentic } from '@/content/agentic';
-import { contact, shift, site } from '@/content/site';
+import { contact, shift } from '@/content/site';
 import { engineering } from '@/content/engineering';
 import { foundation } from '@/content/foundation';
 import { hero } from '@/content/hero';
@@ -408,30 +408,6 @@ export function SitePage() {
           </SectionStack>
         </section>
       </main>
-
-      <footer className="site-footer">
-        <SectionStack tight className="section__inner">
-          <BrandLogo className="brand-logo--footer" />
-          <ul className="footer-links">
-            <li>
-              <ExternalLink href={site.links.linkedIn}>LinkedIn</ExternalLink>
-            </li>
-            <li>
-              <ExternalLink href={site.links.cursor}>Cursor</ExternalLink>
-            </li>
-            <li>
-              <ExternalLink href={site.links.vijay}>vijay.ai</ExternalLink>
-            </li>
-            <li>
-              <ExternalLink href={site.links.uxengineer}>uxengineer.ai</ExternalLink>
-            </li>
-            <li>
-              <ExternalLink href={site.links.interaction}>interaction.dev</ExternalLink>
-            </li>
-          </ul>
-          <p className="vc-muted">{site.footer.copyright}</p>
-        </SectionStack>
-      </footer>
     </>
   );
 }
